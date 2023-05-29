@@ -20,7 +20,7 @@
 
 1.  参数说明：
 ```
-Usage of D:\code\golang\rsapatchtool\rpatch.exe:
+Usage of ./rpatch:
   -b int
         生成用于分解的素数合集，默认为3位以内，过大影响生成时间与执行效率 (default 3)
   -check1
